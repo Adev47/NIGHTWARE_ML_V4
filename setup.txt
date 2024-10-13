@@ -6,7 +6,6 @@ main_widgets_color = #050505
 
 [links]
 discord_link = https://discord.gg/nightware
-guide_link = https://7fusion-services.gitbook.io/7fusion-guide
 website_link = https://nightware.bgng.io/
 
 [rounded_corners]
