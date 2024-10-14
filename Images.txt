@@ -12,7 +12,7 @@ VALORANT,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads
 R6,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_R6_category_wallp.png
 CS2,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_CS2_category_wallp.png
 FORTNITE,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_FTN_category_wallp.png
-RUST,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_RUST_category_wallp.png
+RUST,1.00.02,https://media.discordapp.net/attachments/1287902824625209446/1295409162548809868/3.png?ex=670e8b4b&is=670d39cb&hm=6dcd3cefcbbf372d5381d6adc89d66f9d741972f9f42b0e192bea9ea021587dc&=&format=webp&quality=lossless&width=350&height=701
 APEX,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_APEX_category_wallp.png
 HLL,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_HLL_category_wallp.png
 DAYLIGHT,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_DBD_category_wallp.png
