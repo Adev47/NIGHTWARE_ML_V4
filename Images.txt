@@ -16,3 +16,4 @@ RUST,1.00.02,https://media.discordapp.net/attachments/1287902824625209446/129540
 APEX,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_APEX_category_wallp.png
 HLL,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_HLL_category_wallp.png
 DAYLIGHT,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_DBD_category_wallp.png
+PC,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/default_category_wallp.png
