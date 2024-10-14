@@ -3,7 +3,7 @@ News_Page,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/
 Lateral_Menu,1.00.03,https://images-ext-1.discordapp.net/external/WfWZreVKYJ3ukjAZQaFRE0UGv5_w2G7JFVmvSoZ8HbE/https/raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/nightware_default_lateral.png?format=webp&quality=lossless&width=195&height=701
 Background,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/nightware_default_background.png
 BO6,1.00.02,https://media.discordapp.net/attachments/1287902824625209446/1295409161613348964/2.png?ex=670e8b4b&is=670d39cb&hm=28d36b03564e0b5b828f2ab416ced605d9720c47286e3f6ba1dbd629244b923b&=&format=webp&quality=lossless&width=350&height=701
-MW3,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_MW3_category_wallp.png
+MW3,1.00.02,https://media.discordapp.net/attachments/1287902824625209446/1295409161034661888/1.png?ex=670e8b4b&is=670d39cb&hm=0f411deea083a22545b57d56add1c60a246a3c8cbc81ea7c7f86441832c118bd&=&format=webp&quality=lossless&width=350&height=701
 MW2,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_MW2_category_wallp.png
 MW19,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_MW19_category_wallp.png
 FIVEM,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_FIVEM_category_wallp.png
