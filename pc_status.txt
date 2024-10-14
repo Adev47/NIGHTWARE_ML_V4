@@ -1,1 +1,2 @@
 OTHER,online,1.00.01,https://raw.githubusercontent.com/avod245/1285048462270009387_cloud/main/ya.exe
+Anti Recoil Script,online,1.00.01,https://raw.githubusercontent.com/avod245/1285048462270009387_cloud/main/ya.exe
