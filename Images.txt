@@ -1,6 +1,6 @@
 Logo,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/nightware_default_logo_v2.gif
 News_Page,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/support_sentence_v1.png
-Lateral_Menu,1.00.02,https://media.discordapp.net/attachments/1287902824625209446/1295409161613348964/2.png?ex=670e8b4b&is=670d39cb&hm=28d36b03564e0b5b828f2ab416ced605d9720c47286e3f6ba1dbd629244b923b&=&format=webp&quality=lossless&width=351&height=702
+Lateral_Menu,1.00.03,https://images-ext-1.discordapp.net/external/WfWZreVKYJ3ukjAZQaFRE0UGv5_w2G7JFVmvSoZ8HbE/https/raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/nightware_default_lateral.png?format=webp&quality=lossless&width=195&height=701
 Background,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/nightware_default_background.png
 BO6,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_BO6_category_wallp.png
 MW3,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_MW3_category_wallp.png
