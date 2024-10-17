@@ -1,5 +1,5 @@
 Logo,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/nightware_default_logo_v2.gif
-News_Page,1.00.02,https://media.discordapp.net/attachments/1263593498351763478/1271914224029012109/SERVER_INVITE_BACKGROUND.png?ex=6710bdae&is=670f6c2e&hm=5caa912c089a99e83d5f087a790a4adc9ed153a35fdbecf1ba498d7de4ef3e77&=&format=webp&quality=lossless&width=1193&height=671
+News_Page,1.00.03,https://media.discordapp.net/attachments/1263593498351763478/1288311072645714001/SEO.png?ex=671110ef&is=670fbf6f&hm=f12eaf0f8b0764a4aa02a22b7c3d535333ac75e1ab3fd55ee746ecbec990b43f&=&format=webp&quality=lossless&width=1193&height=671
 Lateral_Menu,1.00.03,https://images-ext-1.discordapp.net/external/WfWZreVKYJ3ukjAZQaFRE0UGv5_w2G7JFVmvSoZ8HbE/https/raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/nightware_default_lateral.png?format=webp&quality=lossless&width=195&height=701
 Background,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/nightware_default_background.png
 BO6,1.00.02,https://media.discordapp.net/attachments/1287902824625209446/1295409161613348964/2.png?ex=670e8b4b&is=670d39cb&hm=28d36b03564e0b5b828f2ab416ced605d9720c47286e3f6ba1dbd629244b923b&=&format=webp&quality=lossless&width=350&height=701
